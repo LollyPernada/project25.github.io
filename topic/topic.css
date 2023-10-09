@@ -63,6 +63,29 @@ body {
     color: #364f6b;
 }
 
+.imt-card {
+    width: 17%;
+    margin: 0 auto;
+}
+
+.imt-card {
+background: #A9A9A9;
+    border-radius: 15px;
+    padding: 15px 5px;
+}
+
+.imt-card img {
+    width: 85%;
+    border-radius: 15px;
+}
+
+.imt-card p {
+    font-family:  'comic sans ms';
+    font-weight: 800;
+    font-size: 17px;
+    text-align: center;
+    color: #364f6b;
+}
 .kolom {
     margin-top: 50px;
     margin-bottom: 50px;
